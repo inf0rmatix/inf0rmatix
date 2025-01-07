@@ -1,6 +1,6 @@
 # Hi there, I'm Paul Köhler! 👋
 
-Welcome to my GitHub profile! I'm Paul, a passionate developer and tech enthusiast based in Hamburg, Germany. My work revolves around creating elegant solutions through code, focusing on web development, software engineering, and user-centric design.
+I'm Paul, a passionate developer and tech enthusiast based in Hamburg, Germany. 
 
 ## About Me
 
@@ -19,17 +19,16 @@ To combine creativity, technology, and collaboration to craft meaningful digital
 
 Here are some of the technologies, tools, and frameworks I enjoy working with:
 
-- **Programming Languages:** Dart, JavaScript, Python, Java  
-- **Frameworks & Platforms:** Flutter, Serverpod, React, Node.js  
-- **Development Tools:** Git, Docker, CI/CD  
-- **Cloud & Hosting:** AWS, Firebase  
-- **Databases:** PostgreSQL, MySQL
+- **Programming Languages:** Dart, Typescript, JavaScript, Java  
+- **Frameworks & Platforms:** Flutter, Serverpod, SolidJs, React, Node.js  
+- **Development Tools:** Git, Docker, CI/CD 
+- **Databases:** PostgreSQL, MySQL, Firestore
 
 ## My Interests
 
-🔹 Building responsive, accessible web and mobile applications  
+🔹 Building responsive, accessible Flutter (mobile, desktop, web) applications  
 🔹 Exploring new tools and frameworks, including open-source contributions  
-🔹 Bridging the gap between technology and design  
+🔹 Bridging the gap between technology and design
 🔹 Experimenting with backend technologies to enhance scalability and performance  
 
 ## Fun Facts About Me
@@ -43,9 +42,8 @@ Here are some of the technologies, tools, and frameworks I enjoy working with:
 I'm always open to exciting collaborations, discussions about technology, or just a friendly chat!  
 
 🌐 **Website:** [paul-koehler.dev](https://paul-koehler.dev)  
-💼 **LinkedIn:** [linkedin.com/in/paul-koehler](https://linkedin.com/in/paul-koehler)  
-🐦 **Twitter:** [@paul_koehler_dev](https://twitter.com/paul_koehler_dev)  
-📧 **Email:** [hello@paul-koehler.dev](mailto:hello@paul-koehler.dev)
+🐦 **Twitter:** [@paul_koehler_dev](https://twitter.com/inf0rmatix)  
+📧 **Email:** [kontakt@paul-koehler.dev](mailto:kontakt@paul-koehler.dev)
 
 ---
 
