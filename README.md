@@ -1,50 +1,40 @@
-# Hi there, I'm Paul Köhler! 👋
+Hi 👋 My name is Paul Köhler
+============================
 
-I'm Paul, a passionate developer and tech enthusiast based in Hamburg, Germany. 
+Flutter and Backend Developer
+-----------------------------
 
-## About Me
+I'm a passionate developer based in Hamburg, Germany. With a focus on Flutter and Serverpod, I love crafting robust, user-friendly applications and exploring cutting-edge technologies.
 
-✨ **Who I Am**  
-I'm a developer driven by curiosity and a love for solving problems through technology. I strive to build impactful applications that enhance user experiences and deliver value. When I'm not coding, you'll often find me exploring new technologies or tinkering with personal projects.
+* 🌍  I'm based in Hamburg, Germany
+* ✉️  You can contact me at [kontakt@paul-koehler.dev](mailto:kontakt@paul-koehler.dev)
+* 🚀  I specialize in building Flutter applications and scalable backend solutions with Serverpod
+* 💙  I'm open to collaborating on innovative projects, especially using Flutter
 
-🌟 **My Mission**  
-To combine creativity, technology, and collaboration to craft meaningful digital experiences.
+### Skills
+<p align="left">
+<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
+<a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js" /></a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="AWS" /></a>
+</p>
 
-📚 **What I Value**  
-- **Continuous Learning:** I believe in staying curious and always seeking to improve.
-- **Collaboration:** Building great things happens when we work together.
-- **Simplicity:** Crafting intuitive solutions is at the heart of my approach.
+### Socials
 
-## My Toolbox
+<p align="left"> 
+<a href="https://www.github.com/inf0rmatix" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> 
+<a href="https://twitter.com/inf0rmatix" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> 
+<a href="https://www.linkedin.com/in/paul-k%C3%B6hler-1a029b160/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
+</p>
 
-Here are some of the technologies, tools, and frameworks I enjoy working with:
+### Badges
 
-- **Programming Languages:** Dart, Typescript, JavaScript, Java  
-- **Frameworks & Platforms:** Flutter, Serverpod, SolidJs, React, Node.js  
-- **Development Tools:** Git, Docker, CI/CD 
-- **Databases:** PostgreSQL, MySQL, Firestore
+<b>My GitHub Stats</b>
 
-## My Interests
+<a href="http://www.github.com/paul-koehler"><img src="https://github-readme-stats.vercel.app/api?username=inf0rmatix&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Paul's GitHub stats" /></a>
 
-🔹 Building responsive, accessible Flutter (mobile, desktop, web) applications  
-🔹 Exploring new tools and frameworks, including open-source contributions  
-🔹 Bridging the gap between technology and design
-🔹 Experimenting with backend technologies to enhance scalability and performance  
+### Support Me
 
-## Fun Facts About Me
-
-- I’m based in **Hamburg, Germany**, a city I love for its vibrant tech community.
-- I’m always curious to explore new languages and frameworks.
-- I believe in a clean and minimalist approach to coding and design.
-
-## Let's Connect!  
-
-I'm always open to exciting collaborations, discussions about technology, or just a friendly chat!  
-
-🌐 **Website:** [paul-koehler.dev](https://paul-koehler.dev)  
-🐦 **Twitter:** [@paul_koehler_dev](https://twitter.com/inf0rmatix)  
-📧 **Email:** [kontakt@paul-koehler.dev](mailto:kontakt@paul-koehler.dev)
-
----
-
-⭐️ *“Strive not to be a success, but rather to be of value.” — Albert Einstein* ⭐️
+If you’d like to support my work, feel free to reach out or explore open-source collaborations!
