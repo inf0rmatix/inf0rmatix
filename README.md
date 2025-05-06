@@ -8,6 +8,15 @@
 
 Hi! I'm Paul, a passionate app developer with expertise in Flutter, Dart and modern web technologies. Since writing my first lines of code at age 14, I've been driven by curiosity and commitment to create outstanding software solutions.
 
+## Open-Source
+
+Giving back to the community is important to me and I even got some achievements :3
+<p>
+    <a href="https://community.vaunt.dev/board/inf0rmatix/achievements">
+        <img src="https://api.vaunt.dev/v1/github/entities/inf0rmatix/achievements?format=svg&limit=3" width="350" />
+    </a>
+</p>
+
 ## Philosophy 💭
 
 > "Perfect is the greatest enemy of done" - but that doesn't mean we can't strive for excellence while delivering value.
@@ -20,7 +29,7 @@ I believe in:
 - Result-driven development
 - Collaborative teamwork
 
-### What I Do 💡
+## What I Do 💡
 
 - Lead complex app development projects from concept to launch
 - Build cross-platform applications with Flutter
